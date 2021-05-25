@@ -1,0 +1,34 @@
+.container{
+    color: red;
+    border: 1px solid blue;
+    background-color: #add8e6;
+    box-shadow: 0px 0px 10px;
+    height: 480px;
+  }
+  
+  .titulo{
+    margin-left: auto;
+    margin-right: auto;
+    width: 17em;
+    font-family: Apple Chancery, cursive;
+    color: white;
+  }
+  
+  .esquerda{
+    max-width: 50%;
+    max-height: 50%;
+  }
+  
+  .direita{
+    max-width: 50%;
+    max-height: 50%;
+    transform: scaleX(-1);
+  }
+  
+  .texto{
+    margin-left: 30%;
+    width: 15em;
+    font-family: Apple Chancery, cursive;
+    color: black;
+    font-size: 2.8vw;
+}
